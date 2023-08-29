@@ -1,6 +1,6 @@
 //Practice-Set-001
 
-//Create a variable and try to add a number to it
+//Create a String variable and try to add a number to it
 let names = "Pramod"
 names = names + 100
 console.log(names) //It concatinates the string with the number trying to add
