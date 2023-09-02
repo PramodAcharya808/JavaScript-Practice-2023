@@ -4,3 +4,4 @@ let b = prompt("Last Name: ")
 console.log(a+" "+b);
 
 
+
