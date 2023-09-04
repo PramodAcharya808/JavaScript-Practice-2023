@@ -11,3 +11,4 @@ console.log(typeof c);
 if (c > 18){
     alert("This a valid age")
 }
+
