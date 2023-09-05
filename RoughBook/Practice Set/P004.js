@@ -1,4 +1,4 @@
-//Find weather the numebr divisible by 2 AND 3
+//Find weather the numebr divisible by 2 OR 3
 
 let a = 12
 // console.log(a%2);
