@@ -7,3 +7,4 @@ const mean = (a,b,c,d)=>{
 console.log(mean(34,56,235));
 
 
+
