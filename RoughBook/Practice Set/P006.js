@@ -6,3 +6,7 @@ let marks = {
     ambika : 96,
     keerthi : 95
 }
+
+for(let a = 0; Object.keys(marks).length; i++){
+    console.log(`Marks of ${object.keys(marks)}`);
+}
