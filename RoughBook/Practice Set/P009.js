@@ -34,3 +34,4 @@ console.log(mean(34,56,235));
 
 
 
+
