@@ -2,8 +2,8 @@
 
 const prompt = require('prompt-sync')();
 
-do {
-    var num = Number.parseInt(prompt("Press 0 to exit: "));
-    console.log("TRY AGAIN !");
+let num = 1
+while (num!=0){
+    num = Number.parseInt(prompt("Press 0 to exit"));
+    console.log("Please Try Again !");
 }
-while (num != 0)
