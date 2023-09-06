@@ -7,6 +7,6 @@ let marks = {
     keerthi : 95
 }
 
-for(let a = 0; Object.keys(marks).length; i++){
-    console.log(`Marks of ${object.keys(marks)}`);
+for (let i=0 ; i<Object.keys(marks).length ; i++){
+    console.log(`Marks of ${object.keys(marks)[i]} is ${marks[object.keys(marks)[i]]}`);
 }
