@@ -28,3 +28,7 @@ console.log(str5.toLowerCase());
 let str6 = "Please give us Rs 1000";
 console.log(str6.slice(18,23));
 
+// Try to change 4th character of a string. Is it possible ?
+
+str5[4] = "P"; // Not possible to modifiy the same string, as Strings are Immutable.
+console.log(str5[4]); 
