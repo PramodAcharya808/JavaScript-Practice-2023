@@ -16,3 +16,9 @@ console.log(str3);
 
 let str4 = str1.endsWith("PRAMOD");
 console.log(str4);
+
+
+// Comvert givern string to lowercase
+
+let str5 = "PRAMOD";
+console.log(str5.toLowerCase());
