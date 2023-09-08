@@ -22,3 +22,9 @@ console.log(str4);
 
 let str5 = "PRAMOD";
 console.log(str5.toLowerCase());
+
+//Extract the amount frm "Please give us Rs 1000"
+
+let str6 = "Please give us Rs 1000";
+console.log(str6.slice(18,23));
+
