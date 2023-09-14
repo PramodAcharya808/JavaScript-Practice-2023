@@ -32,3 +32,4 @@ console.log(str6.slice(18,23));
 
 str5[4] = "P"; // Not possible to modifiy the same string, as Strings are Immutable.
 console.log(str5[4]); 
+
